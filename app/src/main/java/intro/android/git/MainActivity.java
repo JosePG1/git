@@ -20,5 +20,7 @@ public class MainActivity extends AppCompatActivity {
         // Jose added method D
 
         // Test on requirement 10
+
+        // Test on requirement 10 v1
     }
 }
