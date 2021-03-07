@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         // adicionei o metodo A
 
         // adicionei metodo B
+        
+        // John added method C
     }
 }
